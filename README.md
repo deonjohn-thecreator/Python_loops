@@ -18,7 +18,7 @@ This repository contains basic Python loop examples for beginners.
 ## Run
 
 ```bash
-python python_loops.py
+python_loops.py
 ```
 
 ## Author
